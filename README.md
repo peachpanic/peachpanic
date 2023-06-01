@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Java, Python and C**
 
-- 📫 How to reach me **nicaulerlein@gmail.com**
+- 📫 Say jelly! **nicaulerlein@gmail.com**
 
-- ⚡ Fun fact **I always eat Oreo when coding**
+- ⚡ TMI -- **I always eat Oreo when coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
