@@ -10,6 +10,7 @@
 - Reading List:
   **Introduction To Programming Using Java** by David J. Eck
   **Automate the Boring Stuff with Python** by Al Sweigart
+  **Deep Work** by Cal Newport
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
