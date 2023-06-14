@@ -5,9 +5,7 @@
 
 - 📫 Say jelly! **nicaulerlein@gmail.com**
 
-- ⚡ TMI -- **I like to eat Oreo when coding**
-
-- Reading List:
+- 📚 Reading List:
   **Introduction To Programming Using Java** by David J. Eck
   **Automate the Boring Stuff with Python** by Al Sweigart
   **Deep Work** by Cal Newport
