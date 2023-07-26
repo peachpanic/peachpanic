@@ -1,7 +1,7 @@
 <h1 align="center">jelly : ) I'm Nicole!</h1>
 <h3 align="center">Guided by passion and creativity</h3>
 
-- 🌱 I’m currently learning **Java, Python and C**
+- 🌱 I’m currently learning **Java, Python**
 
 - 📫 Say jelly! **nicaulerlein@gmail.com**
 
