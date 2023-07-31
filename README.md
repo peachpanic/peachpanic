@@ -1,5 +1,5 @@
-<h1 align="center">jelly : ) I'm Nicole!</h1>
-<h3 align="center">Guided by passion and creativity</h3>
+<h1 align="center">Trekking through the terrain of thought</h1>
+<h3 align="center">jelly : ) I'm Nicole</h3>
 
 - 🌱 I’m currently learning **Java, Python**
 
