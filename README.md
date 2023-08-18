@@ -1,13 +1,15 @@
 <h1 align="center">Trekking through the terrain of thought</h1>
 <h3 align="center">jelly : ) I'm Nicole</h3>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Java, Python**, **DSA**
 
 - 📫 Say jelly! **nicaulerlein@gmail.com**
 
+- 🔭 I’m working on staying consistent on **Leetcode** 
+
 - 📚 Reading List:
   **Introduction To Programming Using Java** by David J. Eck
-  **Automate the Boring Stuff with Python** by Al Sweigart
+  **Visual Python** by Tristan Bunn
   **Deep Work** by Cal Newport
   **Eloquent Javascript** by Marijn Haverbeke
   
