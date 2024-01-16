@@ -4,9 +4,12 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
 - 📫 Say jelly! **nicaulerlein@gmail.com**
 - 📚 Reading List:
-  **Deep Work** by Cal Newport
-  **Deep Learning for Coders with fastai and PyTorch** by Jeremy Howard
-  **Simulating Physics with Computers** by Richard Feynmann
+  <br>
+  <ul>
+   <li>**Deep Work** by Cal Newport</li>
+   <li>**Deep Learning for Coders with fastai and PyTorch** by Jeremy Howard</li>
+   <li>**Simulating Physics with Computers** by Richard Feynmann</li>
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
