@@ -6,9 +6,9 @@
 - 📚 Reading List:
   <br>
   <ul>
-   <li>**Deep Work** by Cal Newport</li>
-   <li>**Deep Learning for Coders with fastai and PyTorch** by Jeremy Howard</li>
-   <li>**Simulating Physics with Computers** by Richard Feynmann</li>
+   <li>Deep Work by Cal Newport</li>
+   <li>Deep Learning for Coders with fastai and PyTorch by Jeremy Howard</li>
+   <li>Simulating Physics with Computers by Richard Feynmann</li>
   </ul>
 
 <h3 align="left">Connect with me:</h3>
