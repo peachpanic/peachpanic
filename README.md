@@ -1,15 +1,6 @@
 <h2 align="center">Trekking through the terrain of thought</h2>
 <h3 align="center">jelly : ) I'm Nicole</h3>
 
-- 📫 Say jelly! **nicaulerlein@gmail.com**
-- 📚 Reading List:
-  <br>
-  <ul>
-   <li>Deep Work by Cal Newport</li>
-   <li>Deep Learning for Coders with fastai and PyTorch by Jeremy Howard</li>
-   <li>Simulating Physics with Computers by Richard Feynmann</li>
-  </ul>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/19632057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19632057" height="30" width="40" /></a>
