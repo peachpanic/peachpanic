@@ -1,5 +1,5 @@
 <h2 align="center">Trekking through the terrain of thought</h2>
-[![An image of @yoenuts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yoenuts)](https://holopin.io/@yoenuts)
+[An image of @yoenuts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@yoenuts)
 <h3 align="center">jelly : ) I'm Nicole</h3>
 
 <h3 align="left">Connect with me:</h3>
