@@ -1,12 +1,11 @@
 <h2 align="center">Trekking through the terrain of thought</h2>
 <h3 align="center">jelly : ) I'm Nicole</h3>
-<h3>[![An image of @yoenuts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yoenuts)](https://holopin.io/@yoenuts)</h3>
+[![An image of @yoenuts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yoenuts)](https://holopin.io/@yoenuts)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/19632057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19632057" height="30" width="40" /></a>
 <a href="https://kaggle.com/erleinnicole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erleinnicole" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yoenuts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yoenuts" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
