@@ -1,5 +1,6 @@
 <h2 align="center">Trekking through the terrain of thought</h2>
-<!-- <img src="https://holopin.io/@yoenuts" align="center"></img> -->
+
+[![@yoenuts's Holopin board](https://holopin.me/yoenuts)](https://holopin.io/@yoenuts)
 
 <h3 align="center">jelly : ) I'm Nicole</h3>
 
