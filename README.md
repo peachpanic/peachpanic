@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! I'm Nicole, s</h2>
+<h2 align="left">Hi 👋! I'm Nicole</h2>
 
 ###
-
+<h4 align="left">Connect With Me!</h4>
 <div align="left">
   <a href="yoenuts" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -37,6 +37,7 @@
 🌱 I’m currently learning Data Science, focusing on Regression models, Scikit-learn, and Kaggle competitions.<br>
 💬 Ask me about frontend development, open-source contributions, and Data Science.<br>
 ⚡ Fun fact: I'm a computer science student curious about Physics and enjoy developing frontend websites.<br>
+🌐 Languages I Speak: Filipino, English, and learning Spanish!
 </p>
 
 ###
