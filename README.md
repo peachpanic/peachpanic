@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
   </div>
 
 </div>
-
+<br>
 <div align="center">
   <div>
     <strong>🎨 Frontend Tech/Tools</strong><br>
@@ -84,7 +84,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
   </div>
   
 </div>
-
+<br>
 <div align="right" style="margin-top: 10px;">
   <div>
     <strong>📊 Data Science and Analysis</strong><br>
@@ -104,7 +104,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
 
 </div>
 
-<br clear="both">
+### 
+
+### Github Stats :
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peachpanic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
