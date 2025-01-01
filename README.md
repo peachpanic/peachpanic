@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
   
 </div>
 
-<div align="right">
+<div align="right" style="padding-top: 10px;">
   <div>
     <strong>📊 Data Science and Analysis</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
