@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
 </div>
 
 <div align="center">
-  <div style="flex: 1; padding-left: 10px; display: flex; flex-direction: column; gap: 10px;">
+  <div align="left">
     <strong>🎨 Frontend Tech/Tools</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
@@ -83,7 +83,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
 </div>
 
 <div align="right">
-  <div>
+  <div align="left">
     <strong>📊 Data Science and Analysis</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
