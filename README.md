@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I'm Nicole, s</h2>
 
 ###
 
@@ -14,6 +14,9 @@
   </a>
   <a href="https://www.paypal.com/paypalme/choweelin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  </a>
+    <a href="https://www.kaggle.com/erleinnicole" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
   </a>
 </div>
 
@@ -82,7 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
   
 </div>
 
-<div align="right" style="padding-top: 10px;">
+<div align="right" style="margin-top: 10px;">
   <div>
     <strong>📊 Data Science and Analysis</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
