@@ -31,7 +31,13 @@
 ###
 
 <p align="left">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut fringilla congue. Phasellus auctor, nulla consequat ultricies luctus, mauris metus dapibus arcu, a tempor eros quam ac turpis. Phasellus aliquet elit id turpis aliquet, at luctus lacus porttitor. Nullam eget eros mattis, commodo orci scelerisque, auctor ipsum. Duis ac suscipit nisi. Donec maximus erat eget hendrerit interdum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed tincidunt facilisis porttitor. Duis eu mattis arcu. Maecenas congue velit et odio aliquet laoreet. Pellentesque nunc nibh, consectetur at blandit non, egestas nec justo. Quisque convallis mauris non orci luctus, nec accumsan elit congue. Sed eget quam mattis, ornare risus vel, tristique velit. Fusce molestie rhoncus mauris, ut tincidunt massa molestie sit amet. Ut finibus mi sit amet nibh interdum, id tempus nisl scelerisque. Sed rutrum lectus non leo pellentesque, et viverra erat luctus.</p>
+🔭 I’m currently working on understanding Regression models and Scikit-learn for Data Science.<br>
+👯 I’m looking to collaborate on beginner Kaggle competitions and open-source projects.<br>
+🤝 I’m looking for help with advancing my knowledge in Data Science, especially in machine learning.<br>
+🌱 I’m currently learning Data Science, focusing on Regression models, Scikit-learn, and Kaggle competitions.<br>
+💬 Ask me about frontend development, open-source contributions, and Data Science.<br>
+⚡ Fun fact: I'm a computer science student curious about Physics and enjoy developing frontend websites.<br>
+</p>
 
 ###
 
