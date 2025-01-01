@@ -34,9 +34,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
 
 ### Tech Stack:
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-
-  <div style="flex: 1; padding-right: 10px; display: flex; flex-direction: column; gap: 10px;">
+<div align="left">
+  <div>
     <strong>💻 Programming Languages</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
@@ -55,6 +54,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
     </div>
   </div>
 
+</div>
+
+<div align="right">
   <div style="flex: 1; padding-left: 10px; display: flex; flex-direction: column; gap: 10px;">
     <strong>🎨 Frontend Tech/Tools</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -72,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
     </div>
   </div>
-
+  
 </div>
 
 <br clear="both">
