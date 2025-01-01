@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
 
 </div>
 
-<div align="right">
+<div align="center">
   <div style="flex: 1; padding-left: 10px; display: flex; flex-direction: column; gap: 10px;">
     <strong>🎨 Frontend Tech/Tools</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
   
 </div>
 
-<div align="left">
+<div align="right">
   <div>
     <strong>📊 Data Science and Analysis</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
