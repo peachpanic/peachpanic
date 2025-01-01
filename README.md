@@ -33,6 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
 ###
 
 ### Tech Stack:
+<hr>
 
 <div align="left">
   <div>
@@ -66,15 +67,38 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum leo ut f
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
     </div><br>
+    <strong>📚 Frameworks and Libraries</strong><br>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS"/>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery"/>
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery"/>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+      <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white" alt="JavaFX"/>
+    </div>
+  </div>
+  
+</div>
+
+<div align="left">
+  <div>
     <strong>📊 Data Science and Analysis</strong><br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+    </div><br>
+    <strong>🚀 DevOps and Tools</strong><br>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white" alt="Trello"/>
     </div>
   </div>
-  
+
 </div>
 
 <br clear="both">
