@@ -31,9 +31,7 @@
 ###
 
 <p align="left">
-🔭 I’m currently working on understanding Regression models and Scikit-learn for Data Science.<br>
 👯 I’m looking to collaborate on beginner Kaggle competitions and open-source projects.<br>
-🤝 I’m looking for help with advancing my knowledge in Data Science, especially in machine learning.<br>
 🌱 I’m currently learning Data Science, focusing on Regression models, Scikit-learn, and Kaggle competitions.<br>
 💬 Ask me about frontend development, open-source contributions, and Data Science.<br>
 ⚡ Fun fact: I'm a computer science student curious about Physics and enjoy developing frontend websites.<br>
