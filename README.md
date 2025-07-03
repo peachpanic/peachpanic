@@ -32,6 +32,7 @@
 
 <p align="left">
 🌐 Visit my <a href="https://www.everlein.com" target="_blank">Digital Garden</a>
+<br>
 👯 I’m looking to collaborate on my email RAG project.<br>
 🌱 I’m currently exploring Deep Learning and automation using n8n<br>
 </p>
