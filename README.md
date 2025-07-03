@@ -31,10 +31,8 @@
 ###
 
 <p align="left">
-👯 I’m looking to collaborate on beginner Kaggle competitions and open-source projects.<br>
-🌱 I’m currently learning Data Science, focusing on Regression models, Scikit-learn, and Kaggle competitions.<br>
-💬 Ask me about frontend development, open-source contributions, and Data Science.<br>
-⚡ Fun fact: I'm a computer science student curious about Physics and enjoy developing frontend websites.<br>
+👯 I’m looking to collaborate on my email RAG project.<br>
+🌱 I’m currently exploring Deep Learning and automation using n8n<br>
 🌐 Languages I Speak: Filipino, English, and learning Spanish!
 </p>
 
