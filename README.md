@@ -31,9 +31,9 @@
 ###
 
 <p align="left">
+🌐 Visit my <a href="https://www.everlein.com" target="_blank">Digital Garden</a>
 👯 I’m looking to collaborate on my email RAG project.<br>
 🌱 I’m currently exploring Deep Learning and automation using n8n<br>
-🌐 Languages I Speak: Filipino, English, and learning Spanish!
 </p>
 
 ###
